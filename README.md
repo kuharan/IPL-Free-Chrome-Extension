@@ -9,4 +9,7 @@ __It only works for Hotstar domain.__
 
 __Pay for the subscription if you can afford. This work is a proof of concept and doesn't encourage any kind of misuse.__
 
+#### Edit: Hotstar changed the timer to 15 minute for playoffs. Now the reload timer is 14 minutes.
+#### Fixed the auto reload bug.
+
 

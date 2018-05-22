@@ -1,5 +1,5 @@
 const re = new RegExp('^https://www.hotstar.com.*');
-const CODE = `setInterval(function(){localStorage.clear();},0);setInterval(function(){window.location.reload();},295000);`;
+const CODE = `setInterval(function(){localStorage.clear();},0);setInterval(function(){window.location.reload(true);},840000);`;
 
 function getChromeTab(cb) {
 	chrome.tabs.query({
