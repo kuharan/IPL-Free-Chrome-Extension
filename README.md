@@ -1,5 +1,3 @@
-## Update 
-  Its working for the current Asia Cup 2018 - Dubai. The current timer is 10 Mins.
 ## Hotstar Free Chrome Extension. 
 __It only works for Hotstar domain.__
 
